@@ -20,7 +20,7 @@ const Splash = () => {
     <div className="min-h-screen flex flex-col items-center justify-center bg-white text-center p-6">
       <div className="flex items-center mb-4 animate-fade-in">
         <Building className="h-10 w-10 text-kadestate-blue mr-2" />
-        <h1 className="text-4xl font-bold text-kadestate-neutral-900">KadEstate</h1>
+        <h1 className="text-4xl font-bold text-kadestate-neutral-900">Stylo</h1>
       </div>
       
       <p className="text-kadestate-neutral-600 mb-8 max-w-md animate-fade-in animation-delay-200">
